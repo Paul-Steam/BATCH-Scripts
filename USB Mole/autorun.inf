@@ -1,0 +1,5 @@
+[autorun]
+label=Device Name
+open=MoleBat.bat
+action=[MB]Run
+
